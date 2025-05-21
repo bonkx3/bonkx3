@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 My name's Tom
+## 🌱 I’m currently learning Python!
 
 <!--
 **bonkx3/bonkx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
